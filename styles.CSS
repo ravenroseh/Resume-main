@@ -10,19 +10,21 @@ nav ul{
      justify-content:space-evenly;
      text-decoration:none;
      padding:10px;
+     border-radius:35%;
 }
 section{
     text-align:center;
 }
 summary{
+
     display: flex;
     justify-content:center;
     background-color:bisque;
     width:70%;
-    margin-left:10%;
-    margin-right:10%;
-
+    margin-left:15%;
+    border-radius:30%;
 }
+
 /*ul{
     list-style-type:none;
     margin:0;
